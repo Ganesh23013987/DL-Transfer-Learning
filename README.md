@@ -279,10 +279,10 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ### New Sample Data Prediction
 
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/8c942d3a-a636-4e21-8b42-f9ec11911748" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/8c942d3a-a636-4e21-8b42-f9ec11911748" />
 
 
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/6e040247-016c-43fe-994e-fe4400d0100d" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/6e040247-016c-43fe-994e-fe4400d0100d" />
 
 
 
