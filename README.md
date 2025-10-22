@@ -287,4 +287,4 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 
 ## RESULT
-Hence a Neural Network transfer model is developed using transfer learning
+Hence a Neural Network transfer model is developed using transfer learning.
